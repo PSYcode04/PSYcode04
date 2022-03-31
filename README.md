@@ -1,6 +1,5 @@
 # Hi I'm Seyeon
 
-<br>
 
 ### 🌈 My Skills...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
@@ -20,7 +19,10 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 
-### 🤔 Recent Interest
+### 🤔 Recent Interest...
+<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSYcode04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
