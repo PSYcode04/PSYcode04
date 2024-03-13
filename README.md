@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
@@ -23,8 +22,9 @@
 
 <h3 align="center">🤔 Recent Interest...<h3>
 <p align="center">
-<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
-<img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
+<img alt="Vue" src ="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=VUE&logoColor=white"/>&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>&nbsp;
+<img alt="typescript" src=https://img.shields.io/badge/typescript-#3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
 <img alt="AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>&nbsp;
 </p>
   
